@@ -1,0 +1,8 @@
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\bin\Debug\DigitoVerificadorRut.exe.config
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\bin\Debug\DigitoVerificadorRut.exe
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\bin\Debug\DigitoVerificadorRut.pdb
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\obj\Debug\DigitoVerificadorRut.csproj.AssemblyReference.cache
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\obj\Debug\DigitoVerificadorRut.csproj.SuggestedBindingRedirects.cache
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\obj\Debug\DigitoVerificadorRut.csproj.CoreCompileInputs.cache
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\obj\Debug\DigitoVerificadorRut.exe
+C:\Users\malar\Desktop\DigitoVerificadorRut\DigitoVerificadorRut\obj\Debug\DigitoVerificadorRut.pdb
